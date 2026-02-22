@@ -1,0 +1,64 @@
+{
+    "ConfigVersion": 22,
+    "ID": 400,
+    "Type": 1,
+    "Title": "Supplies Retrieval",
+    "Descriptions": [
+        "Supplies buried in the past might be the key to our future.",
+        "Don't you listen %1?! Go!",
+        "Look at that... Another little bambi in the forests of death..."
+    ],
+    "ObjectiveText": "Go speak to STAG Supplies Master Rogers.",
+    "FollowUpQuest": 401,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 1,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "Whetstone",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0, 
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        1
+    ],
+    "QuestTurnInIDs": [
+		5
+	],
+    "IsAchievement": 0,
+    "Objectives": [
+		{
+            "ConfigVersion": 26,
+            "ID": 400,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 100,
+    "ReputationRequirement": 0,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}
