@@ -1,5 +1,3 @@
-
-======================================================================
 Author: Echo (Thamesius on Steam)
 Version: 0.1.1-beta
 Description: This is intended as a very basic setup of Quests for @Expansion-Bundle using the @DeerIsle Map.
@@ -12,7 +10,7 @@ Disclaimer:
 - This is provided with the assumption you have basic understanding of json and xml formatting to copy/paste/edit optional extra content.
 - This Pack is considered BETA Version, DO EXPECT to have to wipe your players Quest progress to make future changes.
 
-==================================================================================
+=====================================================================
 
 Support:
 - I won't be offering support for edited or custom missions made using this Pack as a base.
@@ -23,7 +21,7 @@ Suggestions:
 - Please join my discord and open a ticket.
 	https://discord.gg/KgmD4bKwYs
 	
-==================================================================================
+=====================================================================
 
 Resources, Credits & Thanksyous:
 - Expansion Quests Wiki
