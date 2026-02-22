@@ -1,0 +1,46 @@
+{
+    "m_Version": 10,
+    "EnableQuests": 1,
+    "EnableQuestLogTab": 1,
+    "CreateQuestNPCMarkers": 1,
+    "QuestAcceptedTitle": "Quest Accepted",
+    "QuestAcceptedText": "Quest %1 has been greenlit. Proceed to assigned objectives.",
+    
+    "QuestCompletedTitle": "Quest Complete",
+    "QuestCompletedText": "All directives for Quest %1 have been executed successfully.",
+    
+    "QuestFailedTitle": "Quest Failed",
+    "QuestFailedText": "Quest %1 terminated — objectives not met.",
+    
+    "QuestCanceledTitle": "Quest Aborted",
+    "QuestCanceledText": "Quest %1 has been aborted by command.",
+    
+    "QuestTurnInTitle": "Quest Debrief",
+    "QuestTurnInText": "Quest %1 has concluded. Report filed successfully.",
+    
+    "QuestObjectiveCompletedTitle": "Objective Secured",
+    "QuestObjectiveCompletedText": "Objective %1 under Quest %2 has been completed.",
+    
+    "QuestCooldownTitle": "Quest Cooldown",
+    "QuestCooldownText": "Command is reassigning Quest %1. Return in %1.",
+    
+    "QuestNotInGroupTitle": "Team Deployment Required",
+    "QuestNotInGroupText": "This assignment requires coordinated team deployment. Join a group to proceed.",
+    
+    "QuestNotGroupOwnerTitle": "Authorization Denied",
+    "QuestNotGroupOwnerText": "Only the team leader may authorize this Quest.",
+    
+    "GroupQuestMode": 0,
+    
+    "AchievementCompletedTitle": "Commendation Earned: \"%1\"",
+    "AchievementCompletedText": "%1",
+ 
+    "WeeklyResetDay": "Wednesday",
+    "WeeklyResetMinute": 0,
+    "WeeklyResetHour": 8,
+    "DailyResetHour": 8,
+    "DailyResetMinute": 0,
+    "UseUTCTime": 0,
+    "UseQuestNPCIndicators": 1,
+    "MaxActiveQuests": 2
+}
