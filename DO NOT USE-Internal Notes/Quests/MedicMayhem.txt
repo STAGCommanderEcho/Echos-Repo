@@ -1,0 +1,111 @@
+Quest ID: 101
+Quest File: Quests/Quests/101-MedicMayhem-Basic
+
+- Objective: Find Two Bandages
+	Objective ID: 101 
+	Objective Type: 4 (Collection)
+	Objective File: Quests/Objectives/Collection/101-BandageDressing
+- Objective: Find a Thermometer
+	Objective ID: 102
+	Objective Type: 4 (Collection)
+	Objective File: Quests/Objectives/Collection/102-Thermometer
+- Objective: Craft a Splint
+	Objective ID: 103
+	Objective Type: 4 (Collection) 
+	Objective File: Quests/Objectives/Collection/103-Splint
+
+======================================================================
+
+Quest ID: 102
+Quest File: Quests/Quests/102-MedicMayhem-Disinfectant
+
+- Objective: Find some Disinfectant Spray
+	Objective ID: 104
+	Objective Type: 4 (Collection) 
+	Quest File: Quests/Objectives/Collection/104-DisinfectantSpray
+- Objective: Find some Disinfectant Alcohol
+	Objective ID: 105
+	Objective Type: 4 (Collection) 
+	Quest File: Quests/Objectives/Collection/105-DisinfectantAlcohol
+
+======================================================================
+
+Quest ID: 103
+Quest File: Quests/Quests/103-MedicMayhem-Purification
+- Objective: Find some Purification Tablets
+	Objective ID: 106
+	Objective Type: 4 (Collection) 
+	Quest File: Quests/Objectives/Collection/106-PurificationTablets
+- Objective: Find some Charcoal Tablets
+	Objective ID: 107
+	Objective Type: 4 (Collection) 
+	Quest File: Quests/Objectives/Collection/107-CharcoalTablets
+
+======================================================================
+
+Quest ID: 104
+Quest File: Quests/Quests/104-MedicMayhem-Tablets
+- Objective: Find some Painkiller Tablets
+	Objective ID: 108
+	Objective Type: 4 (Collection) 
+	Quest File: Quests/Objectives/Collection/108-PainkillerTablets
+- Objective: Fnd some Multivitamin Pills
+	Objective ID: 109
+	Objective Type: 4 (Collection) 
+	Quest File: Quests/Objectives/Collection/109-VitaminBottle
+- Objective: Find some Tetracycline Pills
+	Objective ID: 110
+	Objective Type: 4 (Collection) 
+	Quest File: Quests/Objectives/Collection/110-TetracyclineAntibiotics
+
+======================================================================
+
+Quest ID: 105
+Quest File: Quests/Quests/105-MedicMayhem-Injectors
+- Objective: Find a Epinephrine Auto-Injector
+	Objective ID: 111
+	Objective Type: 4 (Collection) 
+	Quest File: Quests/Objectives/Collection/111-Epinephrine
+- Objective: Find a Morphine Auto-Injector
+	Objective ID: 112
+	Objective Type: 4 (Collection) 
+	Quest File: Quests/Objectives/Collection/112-Morphine
+- Objective: Find a Syringe
+	Objective ID: 113
+	Objective Type: 4 (Collection) 
+	Quest File: Quests/Objectives/Collection/113-Syringe
+
+======================================================================
+
+Quest ID: 106
+Quest File: Quests/Quests/106-MedicMayhem-Blood
+- Objective: Find a Blood Test Kit
+	Objective ID: 114
+	Objective Type: 4 (Collection) 
+	Quest File: Quests/Objectives/Collection/114-BloodTestKit
+- Objective: Find a Saline Bag
+	Objective ID: 115
+	Objective Type: 4 (Collection) 
+	Quest File: Quests/Objectives/Collection/115-SalineBag
+- Objective: Find a IV Start Kit
+	Objective ID: 116
+	Objective Type: 4 (Collection) 
+	Quest File: Quests/Objectives/Collection/116-StartKitIV
+
+======================================================================
+
+Quest ID: 107
+Quest File: Quests/Quests/107-MedicMayhem-Heart
+- Objective: Find a Defibrilator
+	Objective ID: 117
+	Objective Type: 4 (Collection) 
+	Quest File: Quests/Objectives/Collection/117-Defibrillator
+
+======================================================================
+
+Quest ID: 108
+Quest File: Quests/Quests/108-MedicMayhem-Deserved
+- Objective: Find a Ciggarette Pack
+	Objective ID: 118
+	Objective Type: 4 (Collection) 
+	Quest File: Quests/Objectives/Collection/118-CigarettePack_Base

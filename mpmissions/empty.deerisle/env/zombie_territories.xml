@@ -1,0 +1,33 @@
+	<territory color="2387830984">
+		<!-- Airfield -->
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="3" dmax="7" x="5521.3" z="3468.0" r="50"/>
+		<!-- Ashville -->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="7" x="7305.0" z="2618.7" r="50"/>
+		<!-- Camp Eagle -->
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="3" dmax="7" x="8835.3" z="3785.0" r="200"/>
+		<!-- Camp Wolf -->
+		<!-- Georgestown -->
+		<zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="7" x="4622.1" z="4441.5" r="200"/>
+		<!-- Greenville -->
+		<!-- Hazelands -->
+		<!-- Kushville -->
+		<!-- Mountainville -->
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="3" dmax="7" x="7281.2" z="8488.5" r="250"/>
+		<!-- Old Field -->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="7" x="6095.1" z="6926.0" r="200"/>
+		<!-- Old Town -->
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="3" dmax="7" x="1920.2" z="9020.1" r="400"/>
+		<!-- Prison -->
+		<!-- Sandy Bay -->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="7" x="5387.7" z="7667.8" r="200"/>
+		<!-- Scouts Camp -->
+		<!-- Scouts Camp -->
+		<!-- Suburbs North -->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="7" x="6370.0" z="2054.7" r="200"/>
+		<!-- Suburbs South -->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="7" x="7264.5" z="1502.1" r="200"/>
+		<!-- Sunset Cross -->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="7" x="6577.7" z="6558.9" r="400"/>
+		<!-- Waldoboro -->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="7" x="8808.2" z=9183.4" r="800"/>
+    </territory>

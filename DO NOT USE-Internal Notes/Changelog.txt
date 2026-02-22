@@ -1,0 +1,19 @@
+Version: 0.1.1-beta
+- Fixed JSON Error in Objective type Target 209-Hazelands.json 
+	which broke Quest config with ID=204 (File=204-InfectedInfestation.json)
+	
+- Fixed Objective ID typo in quest 209-InfectedInfestation.json
+	which broke Quest config with ID=209 (File=209-InfectedInfestation.json)
+	
+- Fixed JSON Error in Objective type Target 2218-ParisIsland.json
+	which broke Quest config with ID=206 (File=206-InfectedInfestation.json)
+	
+- Added AICamp Quests
+- Added AIVIP Quests
+- Added TreasureHunt Quests 
+- Added Lore Quest Deer John
+- Added Lore Quest Breaching KMUC
+- Added Lore Quest Retrieving X65
+
+Version: 0.1.0-beta
+- Initial Release

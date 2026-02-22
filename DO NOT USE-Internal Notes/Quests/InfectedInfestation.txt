@@ -1,0 +1,179 @@
+Quest ID: 201
+- Objective: Kill 5 Infected in Old Field
+    Objective ID: 201
+	Objective Type: 2 (Target)
+	Objective File: Quests/Objectives/Target/201-OldField.json
+	
+- Objective: Kill 5 Infected in Sunset Cross
+    Objective ID: 202
+	Objective Type: 2 (Target)
+	Objective File: Quests/Objectives/Target/202-SunsetCross.json
+	
+==================================================================================
+
+Quest ID: 202
+- Objective: Kill 5 Infected in Kushville
+    Objective ID: 203
+	Objective Type: 2 (Target)
+	Objective File: Quests/Objectives/Target/203-Kushville.json
+	
+- Objective: Kill 5 Infected in Milo
+    Objective ID: 204
+	Objective Type: 2 (Target)
+	Objective File: Quests/Objectives/Target/204-Milo.json
+
+==================================================================================
+
+Quest ID: 203
+- Objective: Kill 5 Infected in Ashville
+    Objective ID: 205
+	Objective Type: 2 (Target)
+	Objective File: Quests/Objectives/Target/205-Ashville.json	
+	
+- Objective: Kill 5 Infected in Stonington South
+    Objective ID: 206
+	Objective Type: 2 (Target)
+	Objective File: Quests/Objectives/Target/206-StoningtonSouth.json	
+	
+- Objective: Kill 5 Infected in Suburbs North
+    Objective ID: 207
+	Objective Type: 2 (Target)
+	Objective File: Quests/Objectives/Target/207-SuburbsNorth.json	
+	
+- Objective: Kill 5 Infected in Airfield
+    Objective ID: 208
+	Objective Type: 2 (Target)
+	Objective File: Quests/Objectives/Target/208-Airfield.json	
+	
+==================================================================================
+
+Quest ID: 204
+- Objective: Kill 5 Infected in Hazelands
+    Objective ID: 209
+    Objective Type: 2 (Target)
+    Objective File: Quests/Objectives/Target/209-Hazelands.json
+
+- Objective: Kill 5 Infected in Scouts Camp
+    Objective ID: 210
+    Objective Type: 2 (Target)
+    Objective File: Quests/Objectives/Target/210-ScoutsCamp.json
+
+- Objective: Kill 5 Infected in Greenville
+    Objective ID: 211
+    Objective Type: 2 (Target)
+    Objective File: Quests/Objectives/Target/211-Greenville.json
+
+- Objective: Kill 5 Infected in Camp Wolf
+    Objective ID: 212
+    Objective Type: 2 (Target)
+    Objective File: Quests/Objectives/Target/212-CampWolf.json
+
+- Objective: Kill 5 Infected in Prison
+    Objective ID: 213
+    Objective Type: 2 (Target)
+    Objective File: Quests/Objectives/Target/213-Prison.json
+
+==================================================================================
+
+Quest ID: 205
+- Objective: Kill 5 Infected in Power Plant
+    Objective ID: 214
+    Objective Type: 2 (Target)
+    Objective File: Quests/Objectives/Target/214-PowerPlant.json
+
+- Objective: Kill 5 Infected in Westbrook
+    Objective ID: 215
+    Objective Type: 2 (Target)
+    Objective File: Quests/Objectives/Target/215-Westbrook.json
+
+- Objective: Kill 5 Infected in Old Town
+    Objective ID: 216
+    Objective Type: 2 (Target)
+    Objective File: Quests/Objectives/Target/216-OldTown.json
+
+==================================================================================
+
+Quest ID: 206
+- Objective: Kill 5 Infected in Georgestown
+    Objective ID: 217
+    Objective Type: 2 (Target)
+    Objective File: Quests/Objectives/Target/217-Georgestown.json
+
+- Objective: Kill 5 Infected in Paris Island
+    Objective ID: 218
+    Objective Type: 2 (Target)
+    Objective File: Quests/Objectives/Target/218-ParisIsland.json
+
+==================================================================================
+
+Quest ID: 207
+- Objective: Kill 5 Infected in Sandy Bay
+    Objective ID: 219
+    Objective Type: 2 (Target)
+    Objective File: Quests/Objectives/Target/219-SandyBay.json
+
+- Objective: Kill 5 Infected in Mountainville
+    Objective ID: 220
+    Objective Type: 2 (Target)
+    Objective File: Quests/Objectives/Target/220-Mountainville.json
+
+- Objective: Kill 5 Infected in Waldoboro
+    Objective ID: 221
+    Objective Type: 2 (Target)
+    Objective File: Quests/Objectives/Target/221-Waldoboro.json
+
+==================================================================================
+
+Quest ID: 208
+- Objective: Kill 5 Infected in Warren Cove
+    Objective ID: 222
+    Objective Type: 2 (Target)
+    Objective File: Quests/Objectives/Target/222-WarrenCove.json
+
+- Objective: Kill 5 Infected in Smallville
+    Objective ID: 223
+    Objective Type: 2 (Target)
+    Objective File: Quests/Objectives/Target/223-Smallville.json
+
+- Objective: Kill 5 Infected in Scouts Camp
+    Objective ID: 224
+    Objective Type: 2 (Target)
+    Objective File: Quests/Objectives/Target/224-ScoutsCamp.json
+
+==================================================================================
+
+Quest ID: 209
+- Objective: Kill 5 Infected in Camp Eagle
+    Objective ID: 225
+    Objective Type: 2 (Target)
+    Objective File: Quests/Objectives/Target/225-CampEagle.json
+
+- Objective: Kill 5 Infected in Threepwood
+    Objective ID: 226
+    Objective Type: 2 (Target)
+    Objective File: Quests/Objectives/Target/226-Threepwood.json
+
+- Objective: Kill 5 Infected in Montville
+    Objective ID: 227
+    Objective Type: 2 (Target)
+    Objective File: Quests/Objectives/Target/227-Montville.json
+
+==================================================================================
+
+Quest ID: 210
+- Objective: Kill 5 Infected in Crotch Island
+    Objective ID: 228
+    Objective Type: 2 (Target)
+    Objective File: Quests/Objectives/Target/228-CrotchIsland.json
+
+- Objective: Kill 5 Infected in Sheep Island
+    Objective ID: 229
+    Objective Type: 2 (Target)
+    Objective File: Quests/Objectives/Target/229-SheepIsland.json
+
+- Objective: Kill 5 Infected in Alcatraz
+    Objective ID: 230
+    Objective Type: 2 (Target)
+    Objective File: Quests/Objectives/Target/230-Alcatraz.json
+
+==================================================================================
