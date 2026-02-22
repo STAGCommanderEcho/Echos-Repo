@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 6,
+    "ID": 5,
+    "ClassName": "ExpansionQuestNPCLewis",
+    "Position": [
+        5637.616211, 
+		29.35000, 
+		5400.991699
+    ],
+    "Orientation": [
+        -140.00000,
+		0.00000,
+		0.00000
+    ],
+    "NPCName": "Supplies Master Rogers",
+    "DefaultNPCText": "Come back Later.",
+    "Waypoints": [],
+    "NPCEmoteID": 0,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "GorkaLoadout",
+    "NPCInteractionEmoteID": 0,
+    "NPCQuestCancelEmoteID": 0,
+    "NPCQuestStartEmoteID": 0,
+    "NPCQuestCompleteEmoteID": 0,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 0,
+    "Active": 1
+}

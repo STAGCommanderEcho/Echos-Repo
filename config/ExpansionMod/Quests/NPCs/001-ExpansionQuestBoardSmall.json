@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 6,
+    "ID": 1,
+    "ClassName": "ExpansionQuestBoardSmall",
+    "Position": [
+        5625.979980, 
+		29.932699, 
+		5392.060059
+    ],
+    "Orientation": [
+        49.679794, 
+		0.000000, 
+		-0.000000
+    ],
+    "NPCName": "Quest Board",
+    "DefaultNPCText": "You look scrawny Contractor, you need to go experience DeerIsle.",
+    "Waypoints": [],
+    "NPCEmoteID": 0,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "",
+    "NPCInteractionEmoteID": 0,
+    "NPCQuestCancelEmoteID": 0,
+    "NPCQuestStartEmoteID": 0,
+    "NPCQuestCompleteEmoteID": 0,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 1,
+    "Active": 1
+}

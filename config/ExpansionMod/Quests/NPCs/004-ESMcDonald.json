@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 6,
+    "ID": 4,
+    "ClassName": "ExpansionQuestNPCSeth",
+    "Position": [
+        5639.913086, 
+		32.08000,
+		5398.822266
+    ],
+    "Orientation": [
+        -110.00000,
+		0.00000,
+		0.00000
+    ],
+    "NPCName": "Evacuation Specialist McDonald",
+    "DefaultNPCText": "Come back Later.",
+    "Waypoints": [],
+    "NPCEmoteID": 0,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "TTSKOLoadout",
+    "NPCInteractionEmoteID": 0,
+    "NPCQuestCancelEmoteID": 0,
+    "NPCQuestStartEmoteID": 0,
+    "NPCQuestCompleteEmoteID": 0,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 0,
+    "Active": 1
+}

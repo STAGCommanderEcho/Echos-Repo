@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 6,
+    "ID": 2,
+    "ClassName": "ExpansionQuestNPCQuinn",
+    "Position": [
+        5684.916016, 
+		28.770140, 
+		5387.063477
+    ],
+    "Orientation": [
+        -90.00000,
+		0.00000,
+		0.00000
+    ],
+    "NPCName": "Medical Chief Officer Peters",
+    "DefaultNPCText": "Come back Later.",
+    "Waypoints": [],
+    "NPCEmoteID": 0,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "NBCLoadout",
+    "NPCInteractionEmoteID": 0,
+    "NPCQuestCancelEmoteID": 0,
+    "NPCQuestStartEmoteID": 0,
+    "NPCQuestCompleteEmoteID": 0,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 0,
+    "Active": 1
+}
