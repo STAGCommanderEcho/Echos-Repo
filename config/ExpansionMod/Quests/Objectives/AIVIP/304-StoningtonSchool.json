@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 26,
+    "ID": 304,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Escort the Survivor to the Underground School in Stonington.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        6760.584961, 
+		29.797262, 
+		1854.125977
+    ],
+    "MaxDistance": 2.5,
+    "MarkerName": "Evac",
+    "ShowDistance": 1,
+    "CanLootAI": 1,
+    "NPCLoadoutFile": "SurvivorLoadout",
+    "NPCClassName": "",
+    "NPCName": "Nyyx"
+}

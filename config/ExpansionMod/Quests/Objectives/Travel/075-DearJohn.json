@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 26,
+    "ID": 75,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Search Johns home for clues.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        9578.748047, 
+		27.0000, 
+		8933.814453
+    ], 
+    "MaxDistance": 2.0, 
+    "MarkerName": "X",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

@@ -1,0 +1,23 @@
+{
+    "ConfigVersion": 26,
+    "ID": 17,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Skin & Quarter 2 Bulls.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionSkinning"
+    ],
+    "AllowedClassNames": [
+		"Animal_BosTaurus",
+		"Animal_BosTaurus_Brown",
+		"Animal_BosTaurus_White",
+		"Animal_BosTaurus_Spotted",
+		"Animal_BosTaurusF",
+		"Animal_BosTaurusF_Brown",
+		"Animal_BosTaurusF_White",
+		"Animal_BosTaurusF_Spotted"
+	],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 2
+}

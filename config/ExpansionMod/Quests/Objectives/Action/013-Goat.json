@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 26,
+    "ID": 13,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Skin & Quarter 2 Goats.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionSkinning"
+    ],
+    "AllowedClassNames": [
+		"Animal_CapraHircus",
+		"Animal_CapraHircus_Brown",
+		"Animal_CapraHircus_Black",
+		"Animal_CapraHircus_White"
+	],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 2
+}

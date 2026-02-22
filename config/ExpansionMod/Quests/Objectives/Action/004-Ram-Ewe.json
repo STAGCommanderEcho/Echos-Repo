@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 26,
+    "ID": 4,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Skin & Quarter a Ram or Ewe.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionSkinning"
+    ],
+    "AllowedClassNames": [
+		"Animal_OvisAries",
+		"Animal_OvisAriesF",
+		"Animal_OvisOrientalis"
+	],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

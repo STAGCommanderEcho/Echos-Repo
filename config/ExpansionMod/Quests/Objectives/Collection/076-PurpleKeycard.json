@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 76,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Find the Purple Security Keycard.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "Jmc_Keycard",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

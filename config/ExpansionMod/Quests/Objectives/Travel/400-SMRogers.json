@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 26,
+    "ID": 400,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Go speak to STAG Supplies Master Rogers.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        5637.616211, 
+		29.430380, 
+		5400.991699
+    ], 
+    "MaxDistance": 2.0, 
+    "MarkerName": "SM Rogers",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

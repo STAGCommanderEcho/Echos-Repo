@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 26,
+    "ID": 301,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Escort the Survivor to the Hospital in Sunset Cross.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        6661.369141, 
+		18.736643, 
+		6324.572266
+    ],
+    "MaxDistance": 2.5,
+    "MarkerName": "Evac",
+    "ShowDistance": 1,
+    "CanLootAI": 1,
+    "NPCLoadoutFile": "HumanLoadout",
+    "NPCClassName": "",
+    "NPCName": "Krynn"
+}

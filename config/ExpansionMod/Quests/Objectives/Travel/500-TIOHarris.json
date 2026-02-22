@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 26,
+    "ID": 500,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Go speak to STAG Threat Intelligence Officer Harris.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        5639.385742, 
+		30.0000, 
+		5399.225586
+    ], 
+    "MaxDistance": 2.0, 
+    "MarkerName": "TIO Harris",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

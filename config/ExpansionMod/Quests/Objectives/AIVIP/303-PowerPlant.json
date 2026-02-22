@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 26,
+    "ID": 303,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Escort the Survivor to the Underground Tisy Barracks at the Power Plant.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        4884.036621, 
+		6.50000, 
+		7191.722168
+    ],
+    "MaxDistance": 2.5,
+    "MarkerName": "Evac",
+    "ShowDistance": 1,
+    "CanLootAI": 1,
+    "NPCLoadoutFile": "GorkaLoadout",
+    "NPCClassName": "",
+    "NPCName": "Rokk"
+}

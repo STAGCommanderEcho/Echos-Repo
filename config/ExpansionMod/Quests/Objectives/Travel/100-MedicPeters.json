@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 26,
+    "ID": 100,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Go speak to STAG Medical Officer Peters.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        5684.916016, 
+		28.870140, 
+		5387.063477
+    ],
+    "MaxDistance": 2.0,
+    "MarkerName": "Medic Peters",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 17,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Collect 2 Cow Steak",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 2,
+            "ClassName": "CowSteakMeat",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

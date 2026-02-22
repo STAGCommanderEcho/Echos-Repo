@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 26,
+    "ID": 76,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Go to Mount Katahdin Military Complex.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        7044.419922, 
+		573.525940, 
+		11618.930664
+    ],
+    "MaxDistance": 2.0,
+    "MarkerName": "X",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

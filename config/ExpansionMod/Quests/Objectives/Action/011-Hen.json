@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 26,
+    "ID": 11,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Skin & Quarter 2 Hens.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionSkinning"
+    ],
+    "AllowedClassNames": [
+		"Animal_GallusGallusDomesticus",
+		"Animal_GallusGallusDomesticusF",
+		"Animal_GallusGallusDomesticusF_Brown",
+		"Animal_GallusGallusDomesticusF_Spotted",
+		"Animal_GallusGallusDomesticusF_White"
+	],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 2
+}

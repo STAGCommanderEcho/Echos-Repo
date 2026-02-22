@@ -1,0 +1,16 @@
+{
+    "ConfigVersion": 26,
+    "ID": 113,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Use Tetracycline Antibiotics.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionBiteTetracyclineAntibiotics",
+		"ActionEatTetracyclineAntibiotics",
+		"ActionFeedTetracyclineAntibiotics"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

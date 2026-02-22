@@ -1,0 +1,65 @@
+{
+    "ConfigVersion": 26,
+    "ID": 401,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Find the location of the Loot Stash.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ShowDistance": 1,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 1,
+    "MarkerName": "???",
+    "MarkerVisibility": 4,
+    "Positions": [
+        [
+            6025.668457, 
+			185.968842, 
+			5678.849609
+        ],
+        [
+            5198.389648, 
+			183.644409, 
+			5787.239258
+        ],
+        [
+            5484.796387, 
+			107.929321, 
+			5150.375977
+        ]
+    ],
+    "Loot": [
+        {
+            "Name": "AKM",
+            "Attachments": [
+                "AK_WoodBttstck",
+                "AK_WoodHndgrd",
+                "Mag_AKM_30Rnd"
+            ],
+            "Chance": 1.0,
+            "QuantityPercent": -2,
+            "Max": 1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Mag_AKM_30Rnd",
+            "Attachments": [],
+            "Chance": 1.0,
+            "QuantityPercent": -2,
+            "Max": 2,
+            "Min": 2,
+            "Variants": []
+        },
+        {
+            "Name": "MatchBox",
+            "Attachments": [],
+            "Chance": 1.0,
+            "QuantityPercent": -2,
+            "Max": 1,
+            "Min": 1,
+            "Variants": []
+        }
+    ],
+    "LootItemsAmount": 4,
+    "MaxDistance": 10.0
+}

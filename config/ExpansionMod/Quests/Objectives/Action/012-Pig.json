@@ -1,0 +1,16 @@
+{
+    "ConfigVersion": 26,
+    "ID": 12,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Skin & Quarter 2 Pigs.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionSkinning"
+    ],
+    "AllowedClassNames": [
+		"Animal_SusDomesticus"
+	],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 2
+}

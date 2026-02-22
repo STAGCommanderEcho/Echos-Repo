@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 117,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Find a Defibrillator.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "Defibrillator",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

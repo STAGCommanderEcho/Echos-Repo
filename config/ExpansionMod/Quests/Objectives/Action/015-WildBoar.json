@@ -1,0 +1,16 @@
+{
+    "ConfigVersion": 26,
+    "ID": 15,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Skin & Quarter 2 Wild Boar.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionSkinning"
+    ],
+    "AllowedClassNames": [
+		"Animal_SusScrofa"
+	],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 2
+}

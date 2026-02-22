@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 26,
+    "ID": 200,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Go speak to STAG Infected Response Coordinator Stevens.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        5637.033203, 
+		33.143387, 
+		5400.37988
+    ], 
+    "MaxDistance": 2.0, 
+    "MarkerName": "IRC Stevens",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

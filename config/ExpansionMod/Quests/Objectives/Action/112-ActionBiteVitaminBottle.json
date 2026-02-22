@@ -1,0 +1,16 @@
+{
+    "ConfigVersion": 26,
+    "ID": 112,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Use a Vitamin Bottle.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionBiteVitaminBottle",
+		"ActionEatVitaminBottle",
+		"ActionFeedVitaminBottle"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

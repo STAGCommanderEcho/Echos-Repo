@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 102,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Collect a Thermometer",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "Thermometer",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

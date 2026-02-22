@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 26,
+    "ID": 302,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Escort the Survivor to the ATC Building on Paris Island.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        2668.753174, 
+		51.00000, 
+		3427.422119
+    ],
+    "MaxDistance": 2.5,
+    "MarkerName": "Evac",
+    "ShowDistance": 1,
+    "CanLootAI": 1,
+    "NPCLoadoutFile": "TTSKOLoadout",
+    "NPCClassName": "",
+    "NPCName": "Vexor"
+}

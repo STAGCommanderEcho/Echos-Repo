@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 26,
+    "ID": 305,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Escort the Survivor to the STAG Office in Westbrook.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        3442.613770, 
+		36.0000, 
+		6414.067383
+    ],
+    "MaxDistance": 2.5,
+    "MarkerName": "Evac",
+    "ShowDistance": 1,
+    "CanLootAI": 1,
+    "NPCLoadoutFile": "GorkaLoadout",
+    "NPCClassName": "",
+    "NPCName": "Stryke"
+}

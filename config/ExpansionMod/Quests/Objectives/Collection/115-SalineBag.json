@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 115,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Find a Saline Bag.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "SalineBag",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

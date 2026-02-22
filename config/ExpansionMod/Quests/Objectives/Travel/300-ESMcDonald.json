@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 26,
+    "ID": 300,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Go speak to STAG Evacuation Specialist McDonald.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        5639.913086, 
+		32.08000,
+		5398.822266
+    ], 
+    "MaxDistance": 2.0, 
+    "MarkerName": "ES McDonald",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

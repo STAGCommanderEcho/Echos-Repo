@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 14,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Collect 2 Mutton Steak",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 2,
+            "ClassName": "SheepSteakMeat",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 5
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}
